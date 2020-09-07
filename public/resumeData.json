@@ -97,28 +97,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
+        "title": "covid-19 tracker",
+        "category": "Backend functionality built in Ruby on Rails RESTful API and the front end with React Redux",
         "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "url": "https://github.com/ivanadokic/covid-19"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
+        "title": "NYC-Park-CLI",
+        "category": "The Command Line Interface (CLI) built in Ruby, scrapes NYC Parks website ",
         "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "url": "https://github.com/ivanadokic/NYC-Park-CLI"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
+        "title": "LICSoccerapp",
+        "category": "Fully functional MVC and CRUD application built in Ruby on Rails",
         "image": "original-thai-food.jpg",
         "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title": "Resume Website",
+        "title": "book-reviews",
         "category": "A React based resume website template",
         "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "url": "https://github.com/ivanadokic/book-reviews"
       },
       {
         "title": "Smirkspace",
