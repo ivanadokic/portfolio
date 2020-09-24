@@ -36,15 +36,27 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
+        "school": "University of Montenegro, Faculty of Electrical Engineering",
+        "degree": "Masters Degree in Electronics, Telecommunications and Computer science",
+        "graduated": "2002 ",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
+        "school": "University of Montenegro, Faculty of Economics",
+        "degree": "Master Degree in International Marketing and Business",
+        "graduated": "2009",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "NYU New York University",
+        "degree": "Diploma in Web Design and Development  ",
+        "graduated": "2017",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Flatiron School",
+        "degree": "Certificate of Completion: Full time online Software Engineering ",
+        "graduated": "2020C",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
@@ -57,7 +69,7 @@
       },
       {
         "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
+        "title": "Certificate of Completion: Full time online Software Engineering",
         "years": "March 2007 - February 2010",
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
