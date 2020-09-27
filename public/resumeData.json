@@ -56,22 +56,34 @@
       {
         "school": "Flatiron School",
         "degree": "Certificate of Completion: Full time online Software Engineering ",
-        "graduated": "2020C",
+        "graduated": "2020",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
+        "company": "LIC Youth Soccer Academy",
+        "title": "Director ",
+        "years": "March 2017 - Present",
+        "description": "Develop a website. Maintain, update and create new web content using HTML, CSS, JavaScript and React. Integrations to external services and softwares setup. Develop an online advertising campaigns to promote sponsors, partners and fundraising collaborations. "
+      },
+      {
+        "company": "T-Mobile",
+        "title": "Senior specialist for data servicese",
+        "years": "March 2008 - January 2017",
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Certificate of Completion: Full time online Software Engineering",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Future link communications",
+        "title": "Electrical Engineer",
+        "years": "October 2005 - January 2008",
+        "description": "Designed hardware schematic. Artwork and firmware of PBX and VoIP network system. Tested, evaluated and recommended data communication hardware and software"
+      },
+      {
+        "company": "Specialist on re-branding project",
+        "title": "Electrical Engineer",
+        "years": "January 2004 - July 2005",
+        "description": " Company rebranding project coordination, post Deutsche Telekom acquisition."
       }
     ],
     "skills": [
