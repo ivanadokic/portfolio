@@ -51,13 +51,13 @@
         "school": "NYU New York University",
         "degree": "Diploma in Web Design and Development  ",
         "graduated": "2017",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": "HTML5, CSS, and JavaScript based Web Development and Full Stack Web Development. Languages: Javascript, Ruby, HTML5, CSS. Frameworks: Bootstrap and Dev Tools: Git, Github. "
       },
       {
         "school": "Flatiron School",
         "degree": "Certificate of Completion: Full time online Software Engineering ",
         "graduated": "2020",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": " Variety of web development languages, frameworks, and libraries, including Ruby, Rails, Sinatra, SQL, ActiveRecord, Git, HTML, CSS, Bootstrap, Semantic U.I., JavaScript, React, and Redux. Develop web-based applications."
       }
     ],
     "work": [
