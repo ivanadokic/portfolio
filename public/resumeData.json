@@ -4,7 +4,7 @@
     "occupation": "Full Stack Software Developer",
     "description": "currently employed by LIC Youth Soccer Academy, one of the best youth soccer programs in New York City",
     "image": "profilepic.jpg",
-    "bio": "Full Stack Software Developer with experience in JavaScript, React, Ruby on Rails and PostgreSQL.  ",
+    "bio": "I am Software Developer with a background in telecommunications and computer science. I am a life-long learner and over the course of my career have continually expanded my knowledge, most recently becoming proficient in building and developing applications using Javascript, React, Ruby on Rails and SQL, among other languages and platforms.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "ivana_pile@yahoo.com",
     "address": {
@@ -36,16 +36,10 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Montenegro, Faculty of Electrical Engineering",
-        "degree": "Masters Degree in Electronics, Telecommunications and Computer science",
-        "graduated": "2002 ",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "University of Montenegro, Faculty of Economics",
-        "degree": "Master Degree in International Marketing and Business",
-        "graduated": "2009",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Flatiron School",
+        "degree": "Certificate of Completion: Full time online Software Engineering ",
+        "graduated": "2020",
+        "description": " Variety of web development languages, frameworks, and libraries, including Ruby, Rails, Sinatra, SQL, ActiveRecord, Git, HTML, CSS, Bootstrap, Semantic U.I., JavaScript, React, and Redux. Develop web-based applications."
       },
       {
         "school": "NYU New York University",
@@ -54,10 +48,14 @@
         "description": "HTML5, CSS, and JavaScript based Web Development and Full Stack Web Development. Languages: Javascript, Ruby, HTML5, CSS. Frameworks: Bootstrap and Dev Tools: Git, Github. "
       },
       {
-        "school": "Flatiron School",
-        "degree": "Certificate of Completion: Full time online Software Engineering ",
-        "graduated": "2020",
-        "description": " Variety of web development languages, frameworks, and libraries, including Ruby, Rails, Sinatra, SQL, ActiveRecord, Git, HTML, CSS, Bootstrap, Semantic U.I., JavaScript, React, and Redux. Develop web-based applications."
+        "school": "University of Montenegro, Faculty of Economics",
+        "degree": "Master Degree in International Marketing and Business",
+        "graduated": "2009"
+      },
+      {
+        "school": "University of Montenegro, Faculty of Electrical Engineering",
+        "degree": "Masters Degree in Electronics, Telecommunications and Computer science",
+        "graduated": "2002 "
       }
     ],
     "work": [
@@ -65,13 +63,13 @@
         "company": "LIC Youth Soccer Academy",
         "title": "Director ",
         "years": "March 2017 - Present",
-        "description": "Develop a website. Maintain, update and create new web content using HTML, CSS, JavaScript and React. Integrations to external services and softwares setup. Develop an online advertising campaigns to promote sponsors, partners and fundraising collaborations. "
+        "description": "Develop and update website. Maintain, update and create new web content using HTML, CSS, JavaScript and React. Integrations to external services and softwares setup. Develop an online advertising campaigns to promote sponsors, partners and fundraising collaborations. "
       },
       {
         "company": "T-Mobile",
-        "title": "Senior specialist for data servicese",
+        "title": "Senior specialist for data services",
         "years": "March 2008 - January 2017",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": "Responsible for building and executing T-Mobile's roadmap for fixed and mobile broadband solutions and products. Implemented design and integration of large-scale projects: Broadband Internet, Mobile Voice and Data, IMS, LTE, Retail, Financing. Project Manager in software/hardware and telecommunication network technologies with a focus on technical product management and/or product development. "
       },
       {
         "company": "Future link communications",
@@ -121,7 +119,7 @@
   "portfolio": {
     "projects": [
       {
-        "title": "covid-19 tracker",
+        "title": "Covid-19 tracker",
         "category": "Backend functionality built in Ruby on Rails RESTful API and the front end with React Redux",
         "image": "canadian-wanderlust.jpg",
         "url": "https://github.com/ivanadokic/covid-19"
@@ -139,16 +137,22 @@
         "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title": "book-reviews",
-        "category": "A React based resume website template",
+        "title": "Book-reviews",
+        "category": "JavaScript, HTML and CSS frontend with a Rails API backend app.",
         "image": "resume-website.jpg",
         "url": "https://github.com/ivanadokic/book-reviews"
       },
       {
         "title": "Shoes",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "category": "Sinatra Content Management System app created to track shoes. ActiveRecord with Sinatra was used.",
         "image": "smirkspace.jpg",
         "url": "https://github.com/ivanadokic/shoes"
+      },
+      {
+        "title": "Ivana Dokic-portfolio",
+        "category": "ReactJS based portfolio website.",
+        "image": "portfolio.jpg",
+        "url": "https://github.com/ivanadokic/portfolio"
       }
     ]
   },
