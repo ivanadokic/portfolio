@@ -6,20 +6,23 @@ class Testimonials extends Component {
     if (this.props.data) {
       var testimonials = this.props.data.testimonials.map(function (testimonials) {
         return <li key={testimonials.user}>
+
           <blockquote>
+            <h2><a href="https://dev.to/ivanadokic">My Blog</a></h2>
             <p>{testimonials.text}</p>
             <cite>{testimonials.user}</cite>
-            <p><a href="#"> https://dev.to/ivanadokic</a></p>
-          </blockquote>
+          </blockquote >
 
 
 
-        </li>
+
+
+        </li >
       })
     }
 
     return (
-      <section id="testimonials">
+      <section id="testimonials" >
         <div className="text-container">
           <div className="row">
 
