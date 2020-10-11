@@ -9,7 +9,7 @@ class Testimonials extends Component {
 
           <blockquote>
             <h2><a href="https://dev.to/ivanadokic">My Blog</a></h2>
-            <p>{testimonials.text}</p>
+            <p>{testimonials.text} </p>
             <cite>{testimonials.user}</cite>
           </blockquote >
 
