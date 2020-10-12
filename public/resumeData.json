@@ -8,8 +8,8 @@
     "contactmessage": "Please feel free to reach out to me!",
     "email": "ivana_pile@yahoo.com",
     "address": {
-      "city": "New York City",
-      "state": "(New York)",
+      "city": "New York",
+      "state": "NY",
       "zip": "(11101)"
     },
     "website": "http://www.timbakerdev.com",
@@ -69,19 +69,13 @@
         "company": "T-Mobile",
         "title": "Senior specialist for data services",
         "years": "March 2008 - January 2017",
-        "description": "Responsible for building and executing T-Mobile's roadmap for fixed and mobile broadband solutions and products. Implemented design and integration of large-scale projects: Broadband Internet, Mobile Voice and Data, IMS, LTE, Retail, Financing. Project Manager in software/hardware and telecommunication network technologies with a focus on technical product management and/or product development. "
+        "description": "Define, develop, manage, and drive execution of the T-Mobile's roadmap for fixed and mobile broadband solutions. Project Manager in software/hardware and telecommunication network technologies with a focus on technical product management and/or product development. Managed P&L for up to 10M in gross revenue. Participate in technical design and architecture with cross functional teams – network architects and engineers for successful development and implementation of the requirements. Increased revenue by 5M through the successful implementation of retail project."
       },
       {
         "company": "Future link communications",
         "title": "Electrical Engineer",
         "years": "October 2005 - January 2008",
         "description": "Designed hardware schematic. Artwork and firmware of PBX and VoIP network system. Tested, evaluated and recommended data communication hardware and software"
-      },
-      {
-        "company": "Specialist on re-branding project",
-        "title": "Electrical Engineer",
-        "years": "January 2004 - July 2005",
-        "description": " Company rebranding project coordination, post Deutsche Telekom acquisition."
       }
     ],
     "skills": [
