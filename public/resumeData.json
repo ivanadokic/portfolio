@@ -80,6 +80,10 @@
     ],
     "skills": [
       {
+        "name": "Ruby on rails",
+        "image": "ruby.jpg"
+      },
+      {
         "name": "Git",
         "image": "git.jpg"
       },
