@@ -81,20 +81,19 @@
     "skills": [
       {
         "name": "Git",
-        "level": "60%"
+        "image": "git.jpg"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "Java",
+        "image": "java.jpg"
       },
       {
         "name": "ReactJs",
-        "description": "React",
-        "level": "50%"
+        "image": "react.jpg"
       },
       {
-        "name": "CSS",
-        "level": "90%"
+        "name": "Bootstrap",
+        "image": "bootstrap.jpg"
       },
       {
         "name": "HTML5",
@@ -116,7 +115,7 @@
         "title": "Covid-19 tracker",
         "category": "Backend functionality built in Ruby on Rails RESTful API and the front end with React Redux",
         "image": "canadian-wanderlust.jpg",
-        "url": "https://github.com/ivanadokic/covid-19"
+        "url": "https://github.com/ivanadokic/covid-19-project"
       },
       {
         "title": "NYC-Park-CLI",
