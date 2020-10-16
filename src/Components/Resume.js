@@ -22,7 +22,7 @@ class Resume extends Component {
           <img className='skill' alt={skills.name} src={projectImage} />
           <h5>{skills.name}</h5>
 
-          <p className='description'>{skills.description}</p>
+          <p className="description">{skills.description}</p>
         </div>
       })
 
