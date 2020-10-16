@@ -81,7 +81,8 @@
     "skills": [
       {
         "name": "Ruby on Rails",
-        "image": "ruby.jpg"
+        "image": "ruby.jpg",
+        "description": "Worked extensively with Ruby on Rails to create APIs, following the MVC pattern and RESTful conventions."
       },
       {
         "name": "Git",
@@ -89,11 +90,13 @@
       },
       {
         "name": "Java",
-        "image": "java.jpg"
+        "image": "java.jpg",
+        "description": "Experienced with JavaScript syntax, conventions and its imperative programming style."
       },
       {
         "name": "ReactJs",
-        "image": "react.jpg"
+        "image": "react.jpg",
+        "description": "Utilized React to handle internal state data, input data in props and to create modular components."
       },
       {
         "name": "Bootstrap",
@@ -101,15 +104,18 @@
       },
       {
         "name": "HTML",
-        "image": "HTML5.jpg"
+        "image": "HTML5.jpg",
+        "description": "Worked extensively with Ruby on Rails to create APIs, following the MVC pattern and RESTful conventions."
       },
       {
         "name": "Postgresql",
-        "image": "Postgresql.jpg"
+        "image": "Postgresql.jpg",
+        "description": "Adopted PostgreSQL in most projects for its object-relational system, flexibility and scalability."
       },
       {
         "name": "Redux",
-        "image": "redux.jpg"
+        "image": "redux.jpg",
+        "description": "Incorporated Redux for predictable and centralized state management, following React's component model."
       }
     ]
   },
