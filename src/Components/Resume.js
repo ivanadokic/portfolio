@@ -80,6 +80,7 @@ class Resume extends Component {
             </p>
 
             <div className="bars">
+
               <ul className="skills">
                 {skills}
               </ul>

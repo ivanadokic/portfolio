@@ -80,7 +80,7 @@
     ],
     "skills": [
       {
-        "name": "Ruby on rails",
+        "name": "Ruby on Rails",
         "image": "ruby.jpg"
       },
       {
@@ -100,8 +100,16 @@
         "image": "bootstrap.jpg"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "HTML",
+        "image": "HTML5.jpg"
+      },
+      {
+        "name": "Postgresql",
+        "image": "Postgresql.jpg"
+      },
+      {
+        "name": "Redux",
+        "image": "redux.jpg"
       }
     ]
   },
