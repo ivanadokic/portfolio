@@ -94,9 +94,9 @@ class Contact extends Component {
                 <li>
                   <span>
                     Microsoft Remote Engineering DevOps summit - Agility and Adaptiveness for Remote Engineers in covid-19 times.
-                        <a href="#"> https://twitter.com/LloydPile</a>
+                        <a href="/#"> https://twitter.com/LloydPile</a>
                   </span>
-                  <b><a href="#">2 Days Ago</a></b>
+
                 </li>
                 <li>
                   <span>
@@ -105,9 +105,9 @@ class Contact extends Component {
                     learned the latest modern web techniques from
                     @rick_viscomi
                     how to measure site's performances #BigQuery #WebDevLive #GoogleDevelopers
-                        <a href="#"> https://twitter.com/LloydPile</a>
+                        <a href="/#"> https://twitter.com/LloydPile</a>
                   </span>
-                  <b><a href="#">3 Days Ago</a></b>
+
                 </li>
               </ul>
             </div>
